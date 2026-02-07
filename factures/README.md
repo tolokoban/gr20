@@ -1,4 +1,4 @@
-# Factures
+# Hébergements
 
 - Calenzana (Lundi 22 Juin)
 - [Ascu Stagnu](ascu-stagnu.facture.pdf) (Mardi 23 Juin) : 04 95 51 79 00 (40 €)
