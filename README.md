@@ -1,5 +1,4 @@
-# gr20
-Projet GR20 en Corse
+# Projet GR20 en Corse
 
 ## Etape 1 : Calenzana - Ascu Stagnu
 
