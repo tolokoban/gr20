@@ -1,6 +1,7 @@
 # Projet GR20 en Corse
 
-[Hébergements](factures/README.md)
+- [Hébergements](factures/README.md)
+- [Fichiers GPX](gpx/README.md)
 
 ## 23 Juin : Calenzana - Ascu Stagnu (23.5 km / 2800 D+ / 1650 D-)
 
