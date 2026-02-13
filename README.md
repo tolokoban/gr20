@@ -16,10 +16,10 @@
 - [Carte variante courte](https://trail-passion.net/trace/?id=80395)
 - [Carte variante normale](https://trail-passion.net/trace/?id=80396)
 
-## 26 Juin : Vizzavona - Malanzana (53.6 kn / 2950 D+ / 2450 D-)
+## 26 Juin : Vizzavona - Matalza (53.6 kn / 2950 D+ / 2450 D-)
 
 - [Carte](https://trail-passion.net/trace/?id=80397)
 
-## 27 Juin : Malanzana - Conca (34.8 km / 1600 D+ / 2750 D-)
+## 27 Juin : Matalza - Conca (34.8 km / 1600 D+ / 2750 D-)
 
 - [Carte](https://trail-passion.net/trace/?id=80397)
