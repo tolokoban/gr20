@@ -1,6 +1,6 @@
 # Hébergements
 
-- Calenzana (Lundi 22 Juin) : 2 Route de Moncale villa cala di stella, Calenzana, Corse 20214, France (131 CHF)
+- Calenzana (Lundi 22 Juin) : 2 Route de Moncale villa cala di stella, Calenzana, Corse 20214, France (131 CHF) AirBnB
 - [Ascu Stagnu](ascu-stagnu.facture.pdf) (Mardi 23 Juin) : 04 95 51 79 00 (40 €)
 - [Manganu](manganu.facture.pdf) (Mercredi 24 Juin) : 04 95 50 59 04 (40 €)
 - Vizzavona (Jeudi 25 Juin) : 04 95 30 53 00, contact@hotel-ucastellu.fr, repas + petit-dej + picnic (242.64 €)
