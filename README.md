@@ -23,3 +23,8 @@
 ## 27 Juin : Matalza - Conca (34.8 km / 1600 D+ / 2750 D-)
 
 - [Carte](https://trail-passion.net/trace/?id=80397)
+
+Prendre la navette de Conca à Sainte Lucie de Porto-Vecchio.
+Puis le [bus jusqu'à Bastia](https://www.rapides-bleus.com/porto-vecchio-bastia/).
+
+Attention ! Départ à 13h55
