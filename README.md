@@ -2,6 +2,7 @@
 
 - [Hébergements](factures/README.md)
 - [Fichiers GPX](gpx/README.md)
+- [Toutes les cartes](https://trail-passion.net/trace/?id=81887)
 
 ## Lundi 22 Juin : Toulon (9h30) - Ile Rousse (18h00)
 
