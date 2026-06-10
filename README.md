@@ -36,3 +36,7 @@ Prendre la navette de Conca à Sainte Lucie de Porto-Vecchio.
 Puis le [bus jusqu'à Bastia](https://www.rapides-bleus.com/porto-vecchio-bastia/).
 
 Attention ! Départ à 13h55
+
+Corsica Ferries : Bastia (20h00) - Toulon (8h00)
+
+
