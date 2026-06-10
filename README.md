@@ -11,6 +11,8 @@
 * Nom du titulaire : MENCIER
 * Compte Corsica Club : 3055187
 
+Nuit à [Calenzana](https://maps.app.goo.gl/fFWQzg5QCGFsuYbj8) : AirBnB - 
+
 ## Mardi 23 Juin : Calenzana - Ascu Stagnu (23.5 km / 2800 D+ / 1650 D-)
 
 - [Carte](https://trail-passion.net/trace/?id=80392)
